@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بسيطولوجي (المدرس)</string>
+    <string name="send">إرسال</string>
+    <string name="home">الرئيسية</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="no_data_to_show">لا توجد عناصر لعرضها</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="wait">إنتطر قليلا...</string>
+    <string name="welcome_back">مرحبا بعودتك مرة اخرى</string>
+    <string name="email_address">البريد الإلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="stages">المراحل</string>
+    <string name="classes">الصفوف الدراسية</string>
+    <string name="subjects">المواد الدراسية</string>
+    <string name="chapters">فصول المادة</string>
+    <string name="lessons">الدروس</string>
+    <string name="questions">الاسئلة</string>
+    <string name="exams">الاختبارات</string>
+    <string name="loggingin">جار تسجيل الدخول...</string>
+    <string name="inc_email_pass">البريد الالكتروني او كلمة المرور غير صحيحة</string>
+    <string name="havenot_account"><![CDATA[ليس لدي حساب ؟ <font color="#3A9AFF">إنشاء حساب جديد.</font>]]></string>
+    <string name="have_account"><![CDATA[لدي حساب بالفعل ؟ <font color="#3A9AFF">دخول.</font>]]></string>
+
+    <string name="sign_up">إنشاء حساب جديد</string>
+    <string name="name">الاسم</string>
+    <string name="first_name">الإسم الاول</string>
+    <string name="last_name">الإسم الاخير</string>
+    <string name="phone_number">رقم الجوال</string>
+    <string name="user_not_exist">هذا المستخدم غير موجود</string>
+    <string name="failed">فشل! حاول مرة اخرى لاحقا</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="social_media">وسائل التواصل الاجتماعى</string>
+    <string name="whatsapp">واتس اب</string>
+    <string name="facebook">فيس بوك</string>
+    <string name="twitter">تويتر</string>
+    <string name="instagram">انستجرام</string>
+    <string name="youtube">يوتيوب</string>
+    <string name="save">حفظ</string>
+    <string name="ch_stage">إختر المرحلة</string>
+    <string name="ch_class">إختر الصف</string>
+    <string name="ch_subject">إختر المادة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="class_name">إسم الفصل</string>
+    <string name="add">إضافة</string>
+    <string name="no_items">لا توجد عناصر لعرضها</string>
+    <string name="deleting">جار الحذف ...</string>
+    <string name="lesson_name">إسم الدرس</string>
+    <string name="chapter">الفصل</string>
+    <string name="ch_chapter">إختر الفصل</string>
+    <string name="subject_exams">إختبارات المادة</string>
+    <string name="show">عرض</string>
+    <string name="chapter_exams">إختبارات الفصل</string>
+    <string name="lessons_exams">إختبارات الدرس</string>
+    <string name="add_subject_exams">إضافة إختبار للمادة</string>
+    <string name="add_chapter_exams">إضافة إختبار للفصل</string>
+    <string name="add_lesson_exam">إضافة إختبار للدرس</string>
+    <string name="select_photo">إختر صورة</string>
+    <string name="add_result">إضافة إجابة</string>
+    <string name="add_exam">إضافة إختبار</string>
+    <string name="gallery">البوم صور</string>
+    <string name="camera">الكاميرا</string>
+    <string name="cancel">إلغاء</string>
+    <string name="correct_answer">الإجابة صحيحة</string>
+    <string name="wrong_answer">الإجابة خاطئة</string>
+    <string name="exam_title">عنوان الإختبار</string>
+    <string name="answers">الإجابة</string>
+    <string name="add_question">إضافة سؤال</string>
+    <string name="guide_link_youtube_link">رابط شرح(إختياري)</string>
+    <string name="ples_delete_ques_first">عفوا ! قم بحذف اسئلة الاختبار اولا</string>
+    <string name="plz_delete_exams">عفوا! قم بحذف الاختبارات اولا</string>
+    <string name="plz_delete_lessons_first">عفوا ! قم بحذف الدروس اولا</string>
+    <string name="suc">تم بنجاح!</string>
+
+</resources>

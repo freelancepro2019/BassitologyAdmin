@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64684428805",
+    "firebase_url": "https://bassitology-f3d5f-default-rtdb.firebaseio.com",
+    "project_id": "bassitology-f3d5f",
+    "storage_bucket": "bassitology-f3d5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64684428805:android:a0e3c61df874f448e0166c",
+        "android_client_info": {
+          "package_name": "com.bassitology_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64684428805-gtuf6pdp11f4kmv613vs6dd304d1ntu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcLeZb3-U6a5hGr_waT1stPzx4YS9fS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64684428805-gtuf6pdp11f4kmv613vs6dd304d1ntu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

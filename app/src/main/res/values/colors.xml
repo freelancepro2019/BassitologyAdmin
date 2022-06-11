@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/color1</color>
+    <color name="colorAccent">@color/color1</color>
+
+    <color name="color1">#3A9AFF</color>
+    <color name="end_color">#0016BD</color>
+
+    <color name="white">#fff</color>
+    <color name="black">#000000</color>
+    <color name="grey0">#fafafa</color>
+    <color name="grey1">#f5f5f5</color>
+    <color name="grey2">#eee</color>
+    <color name="grey3">#dadada</color>
+    <color name="grey4">#747474</color>
+    <color name="grey5">#FDFDFD</color>
+    <color name="grey6">#f8f8f8</color>
+    <color name="grey7">#dadada</color>
+    <color name="grey8">#ccc</color>
+    <color name="grey9">#DADADA</color>
+    <color name="red">#D30404</color>
+    <color name="gradient1_start">#54adef</color>
+    <color name="gradient1_end">#0a91cc</color>
+
+    <color name="gradient2_start">#ff5f6a</color>
+    <color name="gradient2_end">#ff8748</color>
+
+    <color name="gradient3_start">#34a19f</color>
+    <color name="gradient3_end">#04cea8</color>
+
+    <color name="gradient4_start">#5e9801</color>
+    <color name="gradient4_end">#88c400</color>
+
+    <color name="gradient5_start">#a1051d</color>
+    <color name="gradient5_end">#f5515f</color>
+
+    <color name="gradient6_start">#fcff00</color>
+    <color name="gradient6_end">#ffe25c</color>
+
+    <color name="gradient7_start">#5e2563</color>
+    <color name="gradient7_end">#65799b</color>
+
+    <color name="black_trans">#55000000</color>
+    <color name="transparent">#00000000</color>
+
+
+</resources>
