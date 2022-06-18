@@ -81,6 +81,7 @@ public class ChapterLessonsActivity extends BaseActivity {
         binding.recViewLayout.swipeRefresh.setRefreshing(true);
         DatabaseReference dRef = FirebaseDatabase.getInstance().getReference();
         dRef.child(Tags.table_lessons)
+                .child(getUserModel().getId())
                 .addListenerForSingleValueEvent(new ValueEventListener() {
                     @Override
                     public void onDataChange(@NonNull DataSnapshot snapshot) {

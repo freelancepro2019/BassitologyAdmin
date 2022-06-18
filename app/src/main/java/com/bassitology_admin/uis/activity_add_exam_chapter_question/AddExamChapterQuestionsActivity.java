@@ -45,7 +45,9 @@ import com.theartofdev.edmodo.cropper.CropImageView;
 import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.Date;
+import java.util.List;
 import java.util.Locale;
 
 public class AddExamChapterQuestionsActivity extends BaseActivity {
@@ -104,6 +106,15 @@ public class AddExamChapterQuestionsActivity extends BaseActivity {
                     .into(binding.image);
             binding.btnChooseImage.setVisibility(View.GONE);
 
+
+        }else {
+            List<AnswerModel> answers = new ArrayList<>();
+            answers.add(new AnswerModel("أ",false));
+            answers.add(new AnswerModel("ب",false));
+            answers.add(new AnswerModel("ج",false));
+            answers.add(new AnswerModel("د",false));
+            adapter.updateList(answers);
+            questionModel.setAnswers(answers);
 
         }
         binding.setModel(questionModel);
